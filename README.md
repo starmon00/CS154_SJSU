@@ -1,1 +1,1 @@
-README
+See CS154ProjectReport.pdf for more details about the assignment and the purpose of this project.
